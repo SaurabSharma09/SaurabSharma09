@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SaurabSharma09
-- 👀 I’m interested in Software Engerinin
+- 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on Web Development
 
